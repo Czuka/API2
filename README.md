@@ -1,6 +1,6 @@
 # API2
 
-This API allows you to interact with Creo Parametric using the Creoson library and CreoSetup libraries.
+This API allows you to interact with Creo Parametric using the Creoson library and CreoSetup.
 
 ## Prerequisites
 
