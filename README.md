@@ -20,4 +20,4 @@ This API allows you to interact with Creo Parametric using the Creoson library a
    workingDirectory = C:\... path to directory creo model with paterns
    modelFile = projekcik.prt  -name of your template project
 
-   - in case of problem reset CreoSon Setup
+   -in case of error you should restart CreoSon Setup
