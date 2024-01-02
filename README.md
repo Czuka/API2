@@ -21,3 +21,9 @@ This API allows you to interact with Creo Parametric using the Creoson library a
    modelFile = projekcik.prt  -name of your template project
 
    -in case of error you should restart CreoSon Setup
+
+# Project objectives
+
+The objective of this project is to create an API that controls the Creo Parametric with Creoson library to automate and speed up the process of creating shelf support models ready for further strength calculations. 
+
+
